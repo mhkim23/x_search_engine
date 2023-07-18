@@ -58,6 +58,10 @@ $ conda install -c pytorch faiss-cpu # CPU version
 
 #chromadb
 $ pip install chromadb
+
+#torchvision
+$ conda install torchvision
+
 ```
 
 ## 1. Import image
